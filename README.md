@@ -1,5 +1,5 @@
 - Ex1 - Simple Counter - [https://codesandbox.io/s/counter-40g5l?file=/src/App.jshttps://codesandbox.io/s/counter-40g5l?file=/src/App.js](https://codesandbox.io/s/counter-40g5l?file=/src/App.js)
-- Ex2 - Character Count(Twitter) - [https://codesandbox.io/s/counter-40g5l?file=/src/App.js](https://codesandbox.io/s/counter-40g5l?file=/src/App.js)
+- Ex2 - Character Count(Twitter) -  https://codesandbox.io/s/character-count-b15jq
 - Ex3 - Password Match -  [https://codesandbox.io/s/password-match-bwfb1](https://codesandbox.io/s/password-match-bwfb1)
 - Ex4 - Alphanumeric Passwords -  [https://codesandbox.io/s/alphanumberic-password-4x9ps](https://codesandbox.io/s/alphanumberic-password-4x9ps)
 - Ex5 - Disable Submit - [https://codesandbox.io/s/diable-submit-42x2v](https://codesandbox.io/s/diable-submit-42x2v)
